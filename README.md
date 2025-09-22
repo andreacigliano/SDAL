@@ -32,3 +32,5 @@ Utilizzando questo repository, accetti di impiegare il materiale in modo respons
 
 
 # Books Resources
+aipython.pdf 
+(resouces/aipython.pdf)
