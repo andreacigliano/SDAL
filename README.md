@@ -19,7 +19,7 @@ By using this repository, you agree to use the material responsibly and only wit
 ---
 
 **Italiano**  
-Questo repository contiene materiali relativi al corso universitario di *Data Structures and Algorithms*.  
+Questo repository contiene materiali relativi al corso universitario di *Algoritmi e Strutture Dati*.  
 I contenuti, inclusi codice Python e altre risorse, sono destinati **esclusivamente a fini didattici e accademici**.  
 
 - Il materiale è fornito "così com’è", ad **uso e scopo esclusivamente didattico**, senza alcuna garanzia per usi diversi da quelli dichiarati nel presente disclaimer.  
