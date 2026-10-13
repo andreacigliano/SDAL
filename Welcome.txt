@@ -1,0 +1,182 @@
+ALGORITMI E STRUTTURE DATI
+
+Corso di Laurea in Ingegneria Informatica – 6 CFU
+Università degli Studi Guglielmo Marconi
+Prof. Andrea Cigliano
+
+1. Premessa e obiettivi dell'insegnamento
+
+Cari Studenti,
+
+l'insegnamento di Algoritmi e Strutture Dati rappresenta uno degli elementi fondamentali della formazione di un ingegnere informatico.
+
+La finalità del corso non consiste esclusivamente nell'apprendimento mnemonico di algoritmi, definizioni o formule di complessità computazionale, ma soprattutto nell'acquisizione della capacità di analizzare problemi, individuare strategie risolutive efficienti e selezionare le strutture dati più appropriate.
+
+Al termine del percorso formativo lo studente dovrà essere in grado di:
+
+- Comprendere il funzionamento dei principali algoritmi e delle strutture dati.
+
+- Analizzare la complessità temporale e spaziale di una soluzione.
+
+- Confrontare differenti algoritmi, evidenziandone vantaggi, limiti e condizioni di impiego.
+
+- Progettare soluzioni algoritmiche coerenti con i requisiti di un problema.
+
+- Rappresentare il funzionamento degli algoritmi attraverso pseudocodice o Python.
+
+- Motivare le proprie scelte progettuali utilizzando una terminologia informatica corretta.
+
+È importante sottolineare che conoscere un algoritmo non significa soltanto saperne descrivere il funzionamento, ma anche comprendere quando sia opportuno utilizzarlo e quali prestazioni sia in grado di garantire.
+
+
+2. Struttura e modalità dell'esame
+
+L'esame si svolge in forma scritta, con una durata massima di 120 minuti.
+
+La prova esaminata prevede:
+
+- 5 domande a risposta chiusa (2 punti a risposta corretta, max 10 totali per questa tipologia di domande).
+
+- 4 domande a risposta aperta (max 20 punti totali per questa tipologia di domande, l'ultima domanda tra quelle a risposta aperta sarà di progettazione algoritmica).
+
+Il punteggio minimo necessario per il superamento dell'esame è 18/30.
+
+
+3. Come affrontare le domande a risposta chiusa
+
+Le domande a risposta chiusa sono finalizzate a verificare la conoscenza dei concetti fondamentali della disciplina.
+
+Possono riguardare, ad esempio, le proprietà degli algoritmi, la complessità computazionale, le condizioni di applicabilità delle procedure, le caratteristiche delle strutture dati e le principali tecniche di progettazione algoritmica.
+
+Per una preparazione adeguata è necessario:
+
+Conoscere le definizioni fondamentali.
+
+Distinguere strutture dati che presentano caratteristiche simili.
+
+Comprendere la funzione delle principali operazioni.
+
+Riconoscere le proprietà che rendono corretto un determinato algoritmo.
+
+Saper identificare affermazioni tecnicamente errate.
+
+Non è sufficiente memorizzare la risposta corretta a un quiz: occorre saper spiegare perché tale risposta sia corretta e perché le alternative non lo siano.
+
+Consiglio didattico: esercitarsi regolarmente con domande a risposta multipla, motivando sempre la soluzione scelta.
+
+
+4. Come strutturare le risposte aperte di carattere teorico
+
+Le domande a risposta aperta richiedono una trattazione rigorosa, ordinata e tecnicamente corretta.
+
+Per rispondere a una domanda relativa a un algoritmo o a una struttura dati è consigliabile adottare il seguente schema.
+
+A. Definizione
+
+Iniziare fornendo una definizione precisa dell'argomento richiesto.
+
+B. Descrizione del funzionamento
+
+Spiegare le fasi operative fondamentali, utilizzando eventualmente un esempio.
+
+C. Proprietà e caratteristiche
+
+Indicare le condizioni necessarie al funzionamento, le proprietà della struttura o le caratteristiche distintive della tecnica illustrata.
+
+D. Analisi della complessità
+
+Specificare, quando pertinente:
+
+Complessità nel caso migliore.
+
+Complessità nel caso medio.
+
+Complessità nel caso peggiore.
+
+Complessità spaziale.
+
+E. Confronto con soluzioni alternative
+
+Evidenziare vantaggi, svantaggi e situazioni nelle quali una soluzione risulta preferibile a un'altra.
+
+F. Pseudocodice o linguaggio di programmazione Python
+
+Se richiesto, riportare una procedura sufficientemente completa da chiarire gli aspetti operativi dell'algoritmo.
+
+Occorre prestare particolare attenzione agli indici, alle condizioni di terminazione, agli aggiornamenti delle variabili e alla correttezza delle chiamate ricorsive.
+
+Una procedura descritta soltanto in termini generici non equivale necessariamente a uno pseudocodice o programma Python corretto.
+
+
+5. Come affrontare le domande di progettazione algoritmica
+
+Le domande applicative hanno lo scopo di verificare la capacità dello studente di utilizzare concretamente le conoscenze acquisite.
+
+In questo tipo di esercizio viene generalmente presentato un problema informatico e si richiede di progettare una soluzione utilizzando una o più strutture dati.
+
+Si suggerisce di procedere attraverso sei passaggi.
+
+Passaggio 1 – Analizzare i requisiti
+
+Individuare con precisione quali operazioni devono essere supportate e quali vincoli prestazionali sono richiesti.
+
+Passaggio 2 – Scegliere le strutture dati
+
+Selezionare le strutture in funzione delle operazioni da eseguire.
+
+Passaggio 3 – Motivare le scelte
+
+Spiegare perché la struttura selezionata è adeguata al problema.
+
+Una semplice elencazione di strutture dati, senza spiegazione del loro impiego, non costituisce una soluzione progettuale completa.
+
+Passaggio 4 – Analizzare le prestazioni
+
+Indicare la complessità temporale delle singole operazioni, distinguendo opportunamente fra costo medio, atteso e caso peggiore.
+
+Passaggio 5 – Descrivere la gestione degli aggiornamenti
+
+Qualora siano utilizzate più strutture dati, occorre spiegare come mantenerle coerenti durante inserimenti, modifiche e cancellazioni.
+
+Passaggio 6 – Scrivere lo pseudocodice richiesto
+
+Le procedure devono contenere le istruzioni essenziali che consentono l'esecuzione delle operazioni.
+
+Particolare attenzione deve essere rivolta alla corretta interazione fra strutture dati diverse.
+
+
+6. Principali argomenti sui quali concentrare lo studio
+
+Il programma dell'insegnamento è articolato in diversi ambiti. Tutti gli argomenti previsti dal syllabus costituiscono parte del percorso formativo.
+
+Si raccomanda di organizzare la preparazione seguendo le aree fondamentali riportate nel syllabus.
+
+
+7. Bibliografia di riferimento
+
+Per la preparazione dell'esame si raccomanda di fare riferimento ai materiali didattici messi a disposizione sulla piattaforma e ai testi indicati nel syllabus:
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, Introduzione agli algoritmi e strutture dati, McGraw-Hill.
+
+Camil Demetrescu, Irene Finocchi, Giuseppe F. Italiano, Algoritmi e strutture dati, McGraw-Hill.
+
+
+8. Considerazioni conclusive
+
+L'esame di Algoritmi e Strutture Dati richiede preparazione teorica, capacità di ragionamento e competenze applicative.
+
+Una buona risposta universitaria deve essere:
+
+- Corretta, perché fondata su definizioni e principi rigorosi.
+
+- Completa, perché sviluppa tutti gli aspetti richiesti.
+
+- Chiara, perché utilizza un linguaggio tecnico appropriato e una struttura espositiva ordinata.
+
+- Motivata, perché spiega le ragioni delle scelte effettuate.
+
+- Applicabile, perché dimostra la capacità di tradurre le conoscenze teoriche in soluzioni algoritmiche concrete.
+
+Invito pertanto gli studenti a non limitare la propria preparazione alla memorizzazione degli algoritmi, ma a sviluppare un metodo di studio che privilegi la comprensione, l'esercitazione e il ragionamento autonomo.
+
+L'obiettivo formativo dell'insegnamento non è soltanto il superamento della prova scritta, ma l'acquisizione degli strumenti concettuali e operativi indispensabili per affrontare con competenza i problemi dell'ingegneria informatica.
