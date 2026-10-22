@@ -180,3 +180,170 @@ Una buona risposta universitaria deve essere:
 Invito pertanto gli studenti a non limitare la propria preparazione alla memorizzazione degli algoritmi, ma a sviluppare un metodo di studio che privilegi la comprensione, l'esercitazione e il ragionamento autonomo.
 
 L'obiettivo formativo dell'insegnamento non è soltanto il superamento della prova scritta, ma l'acquisizione degli strumenti concettuali e operativi indispensabili per affrontare con competenza i problemi dell'ingegneria informatica.
+
+***** English *****
+ALGORITHMS AND DATA STRUCTURES
+
+B.Sc. in Computer Engineering – 6 ECTS Credits
+Guglielmo Marconi University
+Prof. Andrea Cigliano
+
+
+1. Introduction and Learning Objectives
+
+Dear Students,
+
+The Algorithms and Data Structures course represents one of the fundamental components of a computer engineer’s education.
+
+The aim of the course is not merely to memorise algorithms, definitions, or computational complexity formulas, but, above all, to develop the ability to analyse problems, identify efficient solution strategies, and select the most appropriate data structures.
+
+By the end of the course, students should be able to:
+
+- Understand how the main algorithms and data structures work.
+- Analyse the time and space complexity of a solution.
+- Compare different algorithms, highlighting their advantages, limitations, and conditions of applicability.
+- Design algorithmic solutions that meet the requirements of a given problem.
+- Represent the operation of algorithms using pseudocode or Python.
+- Justify their design choices using appropriate computer science terminology.
+
+It is important to emphasise that knowing an algorithm does not simply mean being able to describe how it works, but also understanding when it is appropriate to use it and what performance guarantees it can provide.
+
+
+2. Examination Structure and Format
+
+The examination is conducted in written form and has a maximum duration of **120 minutes**.
+
+The examination consists of:
+
+- 5 closed-ended questions (2 points for each correct answer, for a maximum of 10 points in this section).
+- 4 open-ended questions (for a maximum of 20 points in this section; the final open-ended question will involve algorithm design).
+
+The minimum score required to pass the examination is 18/30.
+
+
+3. How to Approach Closed-Ended Questions
+
+Closed-ended questions are designed to assess students’ knowledge of the fundamental concepts of the subject.
+
+They may cover, for example, algorithm properties, computational complexity, conditions under which procedures can be applied, characteristics of data structures, and the main algorithm design techniques.
+
+To prepare adequately, students should:
+
+- Know the fundamental definitions.
+- Distinguish between data structures that share similar characteristics.
+- Understand the purpose of the main operations.
+- Recognise the properties that ensure the correctness of a given algorithm.
+- Be able to identify technically incorrect statements.
+
+Simply memorising the correct answer to a multiple-choice question is not sufficient: students must also be able to explain why that answer is correct and why the alternatives are incorrect.
+
+Study recommendation: Regularly practise multiple-choice questions, always providing a justification for the selected answer.
+
+
+4. How to Structure Theoretical Open-Ended Answers
+
+Open-ended questions require a rigorous, well-organised, and technically accurate discussion.
+
+When answering a question about an algorithm or a data structure, students are advised to follow the structure outlined below.
+
+A. Definition
+
+Begin by providing a precise definition of the topic being addressed.
+
+B. Description of How It Works
+
+Explain the main operational steps, using an example where appropriate.
+
+C. Properties and Characteristics
+
+Specify the conditions required for correct operation, the properties of the data structure, or the distinguishing features of the technique being described.
+
+D. Complexity Analysis
+
+Where relevant, specify:
+
+- Best-case time complexity.
+- Average-case time complexity.
+- Worst-case time complexity.
+- Space complexity.
+
+E. Comparison with Alternative Solutions
+
+Highlight the advantages, disadvantages, and circumstances in which one solution is preferable to another.
+
+F. Pseudocode or Python Programming Language
+
+If required, provide a sufficiently complete procedure to clarify the operational aspects of the algorithm.
+
+Particular attention should be paid to indices, termination conditions, variable updates, and the correctness of recursive calls.
+
+A procedure described only in general terms does not necessarily constitute correct pseudocode or a correct Python program.
+
+
+5. How to Approach Algorithm Design Questions
+
+Practical questions are intended to assess students’ ability to apply the knowledge they have acquired.
+
+In this type of exercise, students are generally presented with a computer science problem and asked to design a solution using one or more data structures.
+
+A six-step approach is recommended.
+
+Step 1 – Analyse the Requirements
+
+Identify precisely which operations must be supported and which performance constraints must be satisfied.
+
+Step 2 – Select the Data Structures
+
+Choose the data structures according to the operations that need to be performed.
+
+Step 3 – Justify Your Choices
+
+Explain why the selected data structure is appropriate for the problem.
+
+Simply listing data structures without explaining how they will be used does not constitute a complete design solution.
+
+Step 4 – Analyse Performance
+
+Specify the time complexity of individual operations, appropriately distinguishing between average-case, expected, and worst-case costs.
+
+Step 5 – Describe How Updates Are Managed
+
+When multiple data structures are used, explain how consistency between them is maintained during insertions, modifications, and deletions.
+
+Step 6 – Write the Required Pseudocode
+
+Procedures must include the essential instructions needed to perform the required operations.
+
+Particular attention must be paid to ensuring correct interaction between different data structures.
+
+
+6. Main Topics on Which to Focus Your Studies
+
+The course programme is divided into several subject areas. All topics included in the syllabus form an integral part of the learning programme.
+
+Students are advised to organise their preparation according to the main subject areas outlined in the syllabus.
+
+
+7. Recommended Bibliography
+
+To prepare for the examination, students are advised to refer to the teaching materials available on the learning platform and to the textbooks listed in the syllabus:
+
+- Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduzione agli algoritmi e strutture dati*, McGraw-Hill.
+- Camil Demetrescu, Irene Finocchi, Giuseppe F. Italiano, *Algoritmi e strutture dati*, McGraw-Hill.
+
+
+8. Concluding Remarks
+
+The Algorithms and Data Structures examination requires theoretical knowledge, analytical reasoning skills, and the ability to apply concepts in practice.
+
+A good university-level answer should be:
+
+- Accurate, because it is based on rigorous definitions and principles.
+- Complete, because it addresses all the required aspects.
+- Clear, because it uses appropriate technical language and a well-organised structure.
+- Well-justified, because it explains the reasoning behind the choices made.
+- Applicable, because it demonstrates the ability to translate theoretical knowledge into concrete algorithmic solutions.
+
+I therefore encourage students not to limit their preparation to memorising algorithms, but to develop a study approach that prioritises understanding, practice, and independent reasoning.
+
+The educational objective of the course is not merely to pass the written examination, but to acquire the conceptual and practical tools essential for competently addressing problems in computer engineering.
